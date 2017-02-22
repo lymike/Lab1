@@ -1,3 +1,8 @@
+/*
+ * Lab 1
+ * Names: Michael Ly, Zach Mahl, Diego Guzman
+ */
+
 package pkg1;
 import java.util.Scanner;
 
