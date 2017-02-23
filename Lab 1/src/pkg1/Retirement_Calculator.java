@@ -1,6 +1,9 @@
 /*
  * Lab 1
- * Names: Michael Ly, Zach Mahl, Diego Guzman
+ * Names: 
+ * Michael Ly 33.3% 
+ * Zach Mahl 33.3%
+ * Diego Guzman 33.3%
  */
 
 package pkg1;
